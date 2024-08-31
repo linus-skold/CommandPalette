@@ -2,10 +2,6 @@
 
 # `>` Command Palette
 
-#[![GitHub Repo Stars Badge](https://img.shields.io/github/stars/MichaelPriebe/CommandPalette?logo=github&color=yellow)](https://github.com/MichaelPriebe/CommandPalette)
-#[![Donate PayPal Badge](https://img.shields.io/badge/donate-paypal-blue?logo=paypal)](https://www.paypal.com/donate/?business=7CX6PEVVWC97N&no_recurring=0&item_name=Creating+Command+Palette&currency_code=USD)
-#[![Download CurseForge Badge](https://img.shields.io/badge/download-curseforge-orange?logo=curseforge)](https://curseforge.com/wow/addons/command-palette)
-#[![Download GitHub Badge](https://img.shields.io/badge/download-github-lightgray?logo=github)](https://github.com/MichaelPriebe/CommandPalette/releases)
 
 </div>
 
